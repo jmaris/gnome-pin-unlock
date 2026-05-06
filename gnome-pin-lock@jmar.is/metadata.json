@@ -1,0 +1,9 @@
+{
+  "name": "Lock Screen Numpad",
+  "description": "Adds a touch-friendly numpad to the GNOME lock screen for entering your password without a physical keyboard.",
+  "uuid": "gnome-pin-lock@jmar.is",
+  "version": 1,
+  "shell-version": ["45", "46", "47", "48", "49", "50"],
+  "url": "",
+  "session-modes": ["user", "unlock-dialog"]
+}
