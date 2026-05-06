@@ -9,4 +9,4 @@ A PIN login system for GNOME.
 - I highly recommend either full disk encryption, or at very least home encryption when using this.
 
 # AI Use
-I believe that complete transparency is justified when it comes to the use of AI in coding projects. This project was built using AI-powered tab autocomplete that converts comments into code. Claude was used to review the GNOME lockscreen code in order to find an approach to injecting the PIN. This project **has not yet been adequately reviewed for deployment.** 
+I believe that complete transparency is justified when it comes to the use of AI in coding projects. This project was built using AI-powered tab autocomplete that converts comments into code. Claude was used to review the GNOME lockscreen code in order to find an approach to injecting the PIN. This project **has not yet been adequately reviewed for deployment.**  The code was also documented using AI.
